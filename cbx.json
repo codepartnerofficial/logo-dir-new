@@ -1,0 +1,10 @@
+{
+  "name": "CBX Token",
+  "symbol": "CBX",
+  "description": "CBX is a demo token built on Solana Token-2022 Program.",
+  "image": "https://raw.githubusercontent.com/codepartnerofficial/logo-dir-new/refs/heads/main/CBXLogo.png",
+  "extensions": {
+    "website": "https://carbex.us/",
+    "twitter": "https://x.com/Carb_Ex"
+  }
+}
