@@ -1,7 +1,7 @@
 {
   "name": "CBX Token",
   "symbol": "CBX",
-  "description": "CBX is a demo token built on Solana Token-2022 Program.",
+  "description": "The Carbon Exchange Protocol (CEP) allows for the creation of new financial instruments based on carbon credits, which stimulates innovation in the field of sustainable finance.",
   "image": "https://raw.githubusercontent.com/codepartnerofficial/logo-dir-new/refs/heads/main/CBXLogo.png",
   "extensions": {
     "website": "https://carbex.us/",
